@@ -1,6 +1,6 @@
 # java_FX_input_biodata_student
 
-I used jdk-16.0.2 and javafx-sdk-17.0.9
+I used jdk-16.0.2, javafx-sdk-17.0.9, and scene builder to design the interface.
 
 here's the preview.
 
